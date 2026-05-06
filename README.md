@@ -6,7 +6,7 @@
   <img src=".github/assets/Hanako-280.png" width="80" alt="Hanako">
 </p>
 
-<h1 align="center">OpenHanako</h1>
+<h1 align="center">OpenHanataro</h1>
 
 <p align="center">一个有记忆、有灵魂的私人 AI 助理</p>
 
